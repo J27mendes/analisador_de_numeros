@@ -1,0 +1,45 @@
+body {
+    background: 
+    linear-gradient(to left, rgba(143, 154, 155, 1), rgba(121, 117, 124, 0));
+    background-repeat: no-repeat,
+        no-repeat,
+        no-repeat;
+    background-position: bottom right,
+        left,
+        right;
+    height: 672px;
+    font-size: 20pt;
+    text-align: center; 
+    
+  }
+
+  h1 {
+    text-shadow: 0 3px rgba(80, 78, 78, 0.501);
+  }
+
+  h2 {
+    font-size: 25pt;
+    text-shadow: 0 5px rgba(230, 215, 17, 0.501);  
+  }
+  select#lista{
+    font-size: medium;
+    color: #000;
+    width: 175PX;
+  }
+  footer p{  
+    background-color: #e7e1ba;
+    margin:auto;
+    height: 30px;
+    width: 190px;
+    color: #000000; 
+  }
+
+  footer span#nome{
+    position: absolute;
+    left: 59.5%;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(17, 165, 84, 0.337);
+  }
+ 
+  
